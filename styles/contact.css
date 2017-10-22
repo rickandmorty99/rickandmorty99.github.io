@@ -1,0 +1,24 @@
+nav{
+	background-color: rgb(0,0,51);
+}
+
+.navbar-brand.ron-title{
+	color:white;
+}
+
+.nav-item .nav-link.nav-menu-item{
+	color:white;
+}
+
+body{
+	background:url("../images/background.png") no-repeat center fixed;
+	background-size: cover
+}
+
+.title{
+	text-align:center;
+	font-weight:bold;
+	color:rgb(204,204,255);
+	size:100%;
+	margin-top:50px;
+}
